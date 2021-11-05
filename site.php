@@ -13,8 +13,8 @@
        Input your name please: <input type='text' name='name'>
        <input type='submit'>
  </form>
-<br>
-</body>
+ <br>
+ </body>
   <?php
   echo ("Dear ");
   echo $_GET['name'];
@@ -43,15 +43,7 @@
     else {
   echo "you have are overweight!";
 }
-
     ?>
-
-
-
-
-
-
 <br>
-
   </body>
 </html>
